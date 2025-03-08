@@ -5,7 +5,6 @@ This project demonstrates a **Denial-of-Service (DoS) attack simulation** in a c
 
 ⚠ **Disclaimer:** This project is for **educational and research purposes only**. Do not use these techniques on unauthorized systems. Unauthorized use may result in legal consequences.
 
-![DoS Attack Diagram](https://upload.wikimedia.org/wikipedia/commons/1/19/Denial_of_service_attack.svg)
 
 ---
 
